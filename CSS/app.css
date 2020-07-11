@@ -1,0 +1,20 @@
+h1	{
+	color: red;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 2px dashed purple;
+}
+li	{
+	color: green;
+}
+h4	{
+	background: rgb(255,100,80);
+	color: purple;
+}
+body	{
+	background: pink;
+	/*background: url(https://images.unsplash.com/photo-1545852528-fa22f7fcd63e?ixlib=rb-1.2.1&w=1000&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;*/
